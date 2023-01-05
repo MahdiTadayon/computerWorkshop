@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_18 {
+public class oddEvenCounter {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		
