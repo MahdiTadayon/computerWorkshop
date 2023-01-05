@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class fibonacci {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
@@ -10,8 +9,6 @@ public class fibonacci {
 		for(int i=1;i<=n;i++){
 			System.out.println(fibo(i));
 		}
-		
-		
 	}
 	
 	public static int fibo(int n){
