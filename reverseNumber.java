@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class kargah_computer_14{
+public class reverseNumber {
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		int number = input.nextInt();
