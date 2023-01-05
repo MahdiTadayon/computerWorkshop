@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_15 {
+public class min {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int x = input.nextInt();
