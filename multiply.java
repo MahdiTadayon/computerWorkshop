@@ -12,6 +12,4 @@ public class multiply {
 		}
 		System.out.println(multiply);
 	}
-
-
 }
