@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class kargah_computer_5{
+public class max_maxRepeat{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		int max =0;
