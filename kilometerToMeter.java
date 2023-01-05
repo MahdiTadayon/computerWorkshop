@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class kargah_computer_3{
+public class kilometerToMeter{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		while(true){
