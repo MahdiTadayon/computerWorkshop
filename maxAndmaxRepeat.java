@@ -22,8 +22,5 @@ public class maxAndmaxRepeat{
 		}
 		
 		System.out.println("MAX : "+max+" ,repeat : " + count);
-		
 	}
 }
-
-
