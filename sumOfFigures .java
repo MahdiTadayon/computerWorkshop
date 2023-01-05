@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_2 {
+public class sumOfFigures {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int n = input.nextInt();
