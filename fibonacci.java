@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class kargah_computer_19 {
+public class fibonacci {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int n = input.nextInt();
