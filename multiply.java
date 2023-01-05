@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_16 {
+public class multiply {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int n =input.nextInt();
