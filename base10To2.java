@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class kargah_computer_4 {
+public class base10To2 {
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		int base10 = input.nextInt();
