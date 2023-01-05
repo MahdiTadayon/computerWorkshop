@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_10 {
+public class powerAndFactorial {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int x = input.nextInt();
