@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 public class kilometerToMeter{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
@@ -13,8 +11,5 @@ public class kilometerToMeter{
 			}
 			System.out.println(kilometer+"Km" +"-->"+kilometer *1000+"m");
 		}
-	
 	}
-
 }
-
