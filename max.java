@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_21 {
+public class max {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int max=0;
