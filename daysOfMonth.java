@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kargah_computer_6 {
+public class daysOfMonth {
 	public static void main(String[] args ){
 		Scanner input = new Scanner(System.in);
 		int month = input.nextInt();;
